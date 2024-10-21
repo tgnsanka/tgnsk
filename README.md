@@ -1,0 +1,2 @@
+# tgnsk
+manegment
